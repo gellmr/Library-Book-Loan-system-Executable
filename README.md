@@ -1,6 +1,6 @@
 # Library-Book-Loan-system-Executable
 
-This is an executable version of the C++ console application [Library-Book-Loan-system]([https://www.google.com](https://github.com/gellmr/Library-Book-Loan-system))
+This is an executable version of the C++ console application [Library-Book-Loan-system](https://github.com/gellmr/Library-Book-Loan-system)
 
 To run this program, please download the repo as a zip, extract all, and run LibrarySystem.exe
 
